@@ -1,0 +1,11 @@
+SUPER POKÉMON QUIZ — 500 preguntas
+
+1. Crea un repositorio nuevo de GitHub (por ejemplo: super-pokemon-quiz).
+2. Sube directamente los archivos de esta carpeta a la raíz del repositorio:
+   index.html, preguntas.js, preguntas.json, favicon.svg e icon.png.
+3. En Settings > Pages, elige Deploy from a branch, rama main, carpeta /(root) y pulsa Save.
+4. URL prevista: https://rderuly.github.io/super-pokemon-quiz/
+
+Abre index.html en un navegador para jugar incluso sin conexión.
+El progreso se guarda en el navegador del dispositivo (localStorage).
+Las 500 preguntas no se repiten dentro de una partida de 'Todas'.
