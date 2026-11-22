@@ -1,11 +1,9 @@
-SUPER POKÉMON QUIZ — 500 preguntas
+SUPER POKÉMON QUIZ — 500 preguntas + iconos para iPhone/Android
 
-1. Crea un repositorio nuevo de GitHub (por ejemplo: super-pokemon-quiz).
-2. Sube directamente los archivos de esta carpeta a la raíz del repositorio:
-   index.html, preguntas.js, preguntas.json, favicon.svg e icon.png.
-3. En Settings > Pages, elige Deploy from a branch, rama main, carpeta /(root) y pulsa Save.
-4. URL prevista: https://rderuly.github.io/super-pokemon-quiz/
+1. Descomprime este ZIP.
+2. En tu repositorio super-pokemon-quiz, sube TODOS los archivos a la raíz (no subas el ZIP).
+3. Si hay archivos con el mismo nombre, sustitúyelos mediante GitHub.
+4. Comprueba Settings > Pages > main > /(root).
+5. Abre https://rderuly.github.io/super-pokemon-quiz/
 
-Abre index.html en un navegador para jugar incluso sin conexión.
-El progreso se guarda en el navegador del dispositivo (localStorage).
-Las 500 preguntas no se repiten dentro de una partida de 'Todas'.
+Para ver el favicon nuevo, puede ser necesario actualizar la página y quitarla y añadirla de nuevo a la pantalla de inicio del móvil.
